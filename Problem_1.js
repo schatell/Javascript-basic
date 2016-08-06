@@ -9,6 +9,6 @@ while(number < 1000){
 	} number ++;
 }
 
-var sum =multiple.reduce(function(a, b){return a + b; }, 0);
+var sum = multiple.reduce(function(a, b){return a + b; }, 0);
 
 console.log(sum);
